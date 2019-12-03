@@ -6,13 +6,12 @@
 	* User can assign green, red, blue, magenta and cyan channels
 	* Background subtraction for individual channels
 	* Scale bars can be inserted in individual channels	
-    * Scale bar length can be adjusted (default = 10 µm) 
+    	* Scale bar length can be adjusted (default = 10 µm) 
 	* Scale bar width and fonts scale according to image size in pixels
 	* Saves the results as .tif files to a new folder in the original image directory
 
 Mehrshad Pakdel
 
-pakdel@biochem.mpg.de 
 mehrshad.pakdel@posteo.de
 https://github.com/MehrshadPakdel
 
